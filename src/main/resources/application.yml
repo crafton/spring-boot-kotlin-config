@@ -1,0 +1,6 @@
+myconf:
+  age: 33
+  name: bob
+  surname: bib
+  gender: blue
+  height: 5
